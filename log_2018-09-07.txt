@@ -1,0 +1,4 @@
+2018-09-07 15:03:53,885 - __main__ - DEBUG - debug logging
+2018-09-07 15:03:53,885 - __main__ - INFO - info logging
+2018-09-07 15:03:53,885 - __main__ - WARNING - warn logging
+2018-09-07 15:03:53,886 - __main__ - ERROR - error logging
